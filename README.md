@@ -31,15 +31,15 @@ jupyter notebook AICrew.ipynb
 
 ## Components
 
-AICrew consists of several components:
+**AICrew** consists of several components:
 
-Environment Setup: Initialize the environment and import necessary libraries.
-Configuration and Initialization: Set up LangChain and Google Generative AI embeddings.
-Document Processing: Functions for loading and processing documents.
-RetrievalQA Chain: Set up a retrieval-based question-answering chain.
-Tools Initialization: Initialize various tools for agents, including Wikipedia Query, File Management, and custom tools for specific functions.
-Agents and Crew Initialization: Define roles for each agent in the software development process.
-Execution and Results Handling: Kick off the crew and handle results of the development process.
+- **Environment Setup:** Initialize the environment and import necessary libraries.
+- **Configuration and Initialization:** Set up LangChain and Google Generative AI embeddings.
+- **Document Processing:** Functions for loading and processing documents.
+- **RetrievalQA Chain:** Set up a retrieval-based question-answering chain.
+- **Tools Initialization:** Initialize various tools for agents, including Wikipedia Query, File Management, and custom tools for specific functions.
+- **Agents and Crew Initialization:** Define roles for each agent in the software development process.
+- **Execution and Results Handling:** Kick off the crew and handle results of the development process.
 
 ## Contributing
 
