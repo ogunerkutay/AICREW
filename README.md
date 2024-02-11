@@ -2,7 +2,7 @@
 
 ## Overview
 
-**AICrew** is an innovative approach to simulating a software development process. It leverages advanced Python tools and libraries to create a virtual environment where different aspects of software development are handled by AI agents. Each agent in the AICrew represents a role in a software development team, such as a Backend Developer, DevOps Engineer, or Database Expert. These agents interact with each other to simulate the development of a mobile game.
+**AICrew** is a project that combines different Python tools and libraries to mimic a software development team using AI. It's like putting together pieces of a puzzle. In AICrew, each AI agent acts as a member of a software team – there's one for backend development, another for DevOps, and one for database management, among others. These AI agents work together to simulate building a mobile game. This project is just an example of how you can use these tools together.
 
 ## Installation
 
